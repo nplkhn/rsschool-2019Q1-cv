@@ -20,3 +20,10 @@ I am cheerful and very responsible person. I can easily adapt to any conditions 
 
 ##Experience
 I don't have any experience, but hope to get it in your company:)
+
+##Education
+I am a 2nd year student of the Belarusian state University of Economics. Passed the course "Introduction to C++" from the Yandex Academy on the website stepik.org
+![Stepik sertificate](images/sertificate.png)
+
+##English level
+I can't say that I know English well, but I do my best to improve my knowledge. Listening to music in English and try to understand the meaning of the song without any translation. Taking courses on duolingo.
